@@ -1,4 +1,3 @@
-![GitHub Skyline](https://raw.githubusercontent.com/macaluzate/macaluzate/main/skyline.png)
 
 
 <!--
