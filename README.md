@@ -27,5 +27,5 @@
 
 ### 📊 Stats
 
-![Macaluzate Git Stats](https://github-readme-stats.vercel.app/api?username=macaluzate_icons=true&theme=gruvbox_light)
+![Macaluzate Git Stats](https://github-readme-stats.vercel.app/api?username=macaluzate&show_icons=true&theme=gruvbox_light)
 
