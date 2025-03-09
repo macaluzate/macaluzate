@@ -1,6 +1,6 @@
 name: Metrics
 on:
-schedule: [{cron: "0 0 * * *"}] # Se ejecuta todos los días a medianoche
+  schedule: [{cron: "0 0 * * *"}] # Se ejecuta todos los días a medianoche
   workflow_dispatch:
 
 jobs:
