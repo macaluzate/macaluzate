@@ -21,3 +21,11 @@
 
 
 ![GitHub Metrics](https://github.com/macaluzate/macaluzate/blob/main/metrics.plugin.isocalendar.fullyear.svg)
+
+
+#
+
+### 📊 Stats
+
+![Macaluzate Git Stats](https://github-readme-stats.vercel.app/api?username=macaluzate_icons=true&theme=gruvbox_light)
+
